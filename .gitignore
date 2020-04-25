@@ -1,0 +1,18 @@
+*.iml
+.idea
+.idea/compiler.xml
+**/target/
+**/out/
+.gradle
+.allure
+**/build/
+derby.log
+work/
+.settings/
+.classpath
+.project
+# Misc
+.DS_Store
+*.swp
+dependency-reduced-pom.xml
+ui-automation-common.iml
